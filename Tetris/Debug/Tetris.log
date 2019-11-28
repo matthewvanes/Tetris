@@ -1,0 +1,6 @@
+﻿  TetrisGame.cpp
+M:\ics214\labs\Tetris\Tetris\TetrisGame.cpp(213,71): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+M:\ics214\labs\Tetris\Tetris\TetrisGame.cpp(213,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+M:\ics214\labs\Tetris\Tetris\TetrisGame.cpp(239,20): warning C4018:  '<': signed/unsigned mismatch
+M:\ics214\labs\Tetris\Tetris\TetrisGame.cpp(271,20): warning C4018:  '<': signed/unsigned mismatch
+  Tetris.vcxproj -> M:\ics214\labs\Tetris\Debug\Tetris.exe
